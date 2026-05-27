@@ -117,8 +117,7 @@ React.js, Express.js, MongoDB
 ## 📫 Connect With Me
 
 * Portfolio: https://portfolio-yv1u.onrender.com/
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add Your LinkedIn
+* GitHub: https://github.com/chaurasiyajitendra
 
 ---
 
