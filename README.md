@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jeet Chaursiya
+# Hi 👋, I'm Jitendra Chaursiya
 
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Focused
 
