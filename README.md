@@ -1,126 +1,117 @@
-# Hi 👋, I'm Jitendra Chaursiya
+<div align="center">
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Focused
+# Hi, I'm Jeet Chaursiya 👋
 
-Passionate developer focused on building modern, responsive, and scalable web applications using the MERN stack. I enjoy creating elegant user interfaces, smooth user experiences, and real-world full stack projects with clean architecture.
+### Full Stack Developer | MERN Stack Enthusiast | Building Modern Web Experiences
+
+Passionate about creating scalable web applications, elegant user interfaces, and seamless user experiences. Focused on writing clean code, solving real-world problems, and continuously improving my development skills.
+
+[Portfolio](https://portfolio-yv1u.onrender.com/) • [GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
-## 🌐 Portfolio
+## About Me
 
-🔗 https://portfolio-yv1u.onrender.com/
+- 💻 Full Stack Developer specializing in the MERN Stack
+- 🚀 Building responsive, scalable, and user-focused web applications
+- 🎨 Strong interest in modern UI/UX and frontend architecture
+- 🔐 Experienced with Authentication, REST APIs, and Admin Dashboards
+- 🌱 Currently learning Docker, CI/CD, and scalable backend systems
+- ⚡ Enjoy turning ideas into production-ready applications
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
-
-* React.js
-* Redux Toolkit
-* Tailwind CSS
-* JavaScript (ES6+)
-* HTML5 & CSS3
-* Framer Motion
+- React.js
+- Redux Toolkit
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
 
 ### Backend
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* JWT Authentication
-
-### Tools & Platforms
-
-* Git & GitHub
-* Postman
-* Vite
-* Firebase
-* Render
-* Netlify
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Render
+- Netlify
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 👜 Skatch – Luxury Bag eCommerce Website
+### Skatch – Luxury eCommerce Platform
+A premium luxury bag eCommerce platform inspired by modern fashion brands.
 
-A premium luxury eCommerce platform inspired by brands like Gucci and Prada.
+**Highlights**
+- Authentication & Authorization
+- Admin Dashboard
+- Product Management
+- Cart & Wishlist
+- Responsive Design
+- Modern UI/UX
 
-#### Features
+### Real-Time Chess Application
+A multiplayer chess platform powered by Socket.IO.
 
-* Responsive luxury UI
-* Authentication system
-* Cart & Wishlist
-* Product management
-* Admin dashboard
-* Modern animations
+**Highlights**
+- Real-time gameplay
+- Multiplayer rooms
+- Move synchronization
+- Responsive interface
 
-#### Tech Used
+### Task Tracker Application
+A productivity-focused task management platform.
 
-React.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB
-
----
-
-### ♟️ Real-Time Chess Game
-
-A multiplayer chess game built using Socket.IO.
-
-#### Features
-
-* Real-time gameplay
-* Multiplayer rooms
-* Move synchronization
-* Responsive interface
-
-#### Tech Used
-
-React.js, Node.js, Socket.IO
+**Highlights**
+- CRUD Operations
+- User Authentication
+- Protected Routes
+- Clean Dashboard Experience
 
 ---
 
-### ✅ Task Tracker Application
+## GitHub Statistics
 
-A task management application with authentication and CRUD functionality.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
 
-#### Features
-
-* User authentication
-* Create, update & delete tasks
-* Protected routes
-* Clean dashboard UI
-
-#### Tech Used
-
-React.js, Express.js, MongoDB
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark-blue" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiyajitendra\&layout=compact)
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Backend Architecture
-* Performance Optimization
-* Docker & CI/CD
-* Scalable MERN Applications
+- Advanced React Patterns
+- Backend Architecture
+- Performance Optimization
+- Docker & CI/CD
+- Production-Ready MERN Applications
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-* Portfolio: https://portfolio-yv1u.onrender.com/
-* GitHub: https://github.com/chaurasiyajitendra
+📧 jitendrachaurasiya2506@gmail.com
+
+🌐 https://portfolio-yv1u.onrender.com/
 
 ---
 
-### ✨ Quote
-
-> “Building modern web experiences with clean design and scalable architecture.”
+> Building modern web applications with clean architecture, thoughtful design, and scalable solutions.
