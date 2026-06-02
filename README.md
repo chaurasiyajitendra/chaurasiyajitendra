@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jeet Chaursiya 👋
+# Hi, I'm Jitendra Chaursiya 👋
 
 ### Full Stack Developer | MERN Stack Enthusiast | Building Modern Web Experiences
 
